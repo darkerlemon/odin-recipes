@@ -1,0 +1,21 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    background-color: lightgreen;
+}
